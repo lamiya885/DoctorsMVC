@@ -1,0 +1,17 @@
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\bin\Debug\net8.0\Doctor.DAL.deps.json
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\bin\Debug\net8.0\Doctor.DAL.runtimeconfig.json
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\bin\Debug\net8.0\Doctor.DAL.dll
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\bin\Debug\net8.0\Doctor.DAL.pdb
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\bin\Debug\net8.0\Doctor.Core.dll
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\bin\Debug\net8.0\Doctor.Core.pdb
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\obj\Debug\net8.0\Doctor.DAL.csproj.AssemblyReference.cache
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\obj\Debug\net8.0\Doctor.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\obj\Debug\net8.0\Doctor.DAL.AssemblyInfoInputs.cache
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\obj\Debug\net8.0\Doctor.DAL.AssemblyInfo.cs
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\obj\Debug\net8.0\Doctor.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\obj\Debug\net8.0\Doctor.DAL.csproj.Up2Date
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\obj\Debug\net8.0\Doctor.DAL.dll
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\obj\Debug\net8.0\refint\Doctor.DAL.dll
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\obj\Debug\net8.0\Doctor.DAL.pdb
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\obj\Debug\net8.0\Doctor.DAL.genruntimeconfig.cache
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.DAL\obj\Debug\net8.0\ref\Doctor.DAL.dll

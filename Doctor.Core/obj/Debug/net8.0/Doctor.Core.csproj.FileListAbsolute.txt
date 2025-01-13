@@ -1,0 +1,12 @@
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.Core\bin\Debug\net8.0\Doctor.Core.deps.json
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.Core\bin\Debug\net8.0\Doctor.Core.dll
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.Core\bin\Debug\net8.0\Doctor.Core.pdb
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.Core\obj\Debug\net8.0\Doctor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.Core\obj\Debug\net8.0\Doctor.Core.AssemblyInfoInputs.cache
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.Core\obj\Debug\net8.0\Doctor.Core.AssemblyInfo.cs
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.Core\obj\Debug\net8.0\Doctor.Core.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.Core\obj\Debug\net8.0\Doctor.Core.dll
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.Core\obj\Debug\net8.0\refint\Doctor.Core.dll
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.Core\obj\Debug\net8.0\Doctor.Core.pdb
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.Core\obj\Debug\net8.0\ref\Doctor.Core.dll
+C:\Users\ll novbe\source\repos\Doctor.Core\Doctor.Core\obj\Debug\net8.0\Doctor.Core.csproj.AssemblyReference.cache
