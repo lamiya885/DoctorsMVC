@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Doctor.DAL.Repostory.Interface
+namespace Doctor.BL.ViewModel.Departments
 {
-    public class IDoctorsRepostory
+    public class CreateDepartmentVM
     {
-    //    public Task<int> Create();
-  
+        public string Name { get; set; }
     }
 }

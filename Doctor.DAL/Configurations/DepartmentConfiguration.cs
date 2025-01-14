@@ -15,8 +15,8 @@ public class DepartmentConfiguration : IEntityTypeConfiguration<Department>
     {
         builder.HasIndex(e=>e.Name)
             .IsUnique();
-        builder.HasOne(e => e.Department)
-            .WithMany(e => e.Doctor)
+        //builder.HasOne(e => e.Department)
+        //    .WithMany(e => e.Doctor)
             ;
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Doctor.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8339ec5c9998a700f8226c51e540f47ef3d23cde")]
 [assembly: System.Reflection.AssemblyProductAttribute("Doctor.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Doctor.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

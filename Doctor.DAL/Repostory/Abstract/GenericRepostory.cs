@@ -23,7 +23,7 @@ namespace Doctor.DAL.Repostory.Abstract
         public async  void DeleteAsync(Guid Id)
         {
             var entity=Table.Where(x => x.Id == Id);
-            Table.Remove(entity);
+          //  Table.Remove(entity);
         }
 
         public void DeleteAsync(int id)
